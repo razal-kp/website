@@ -8,7 +8,7 @@ fetch('assets/json/data.json')
                                 <div class="games-single-item img-contain-isotope">
                                     <div class="games-thumb">
                                         <div class="games-thumb-image">
-                                            <a href="#">
+                                            <a>
                                                 <img src="https://i.ytimg.com/vi/${data.guid}/hqdefault.jpg" alt="games" />
                                             </a>
                                         </div>
